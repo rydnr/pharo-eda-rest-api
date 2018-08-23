@@ -1,0 +1,3 @@
+[submodule "pharo-eda"]
+	path = pharo-eda
+	url = https://github.com/osoco/pharo-eda

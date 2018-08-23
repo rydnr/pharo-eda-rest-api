@@ -1,0 +1,3 @@
+configuration
+supportedAggregates
+	^ EDAAggregateRoot allSubclasses

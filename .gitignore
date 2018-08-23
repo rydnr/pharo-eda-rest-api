@@ -12,6 +12,10 @@ SqueakDebug.log
 
 # Monticello package cache
 /package-cache
+/pharo-local
+unqlite.so
+icon-packs
+image.*
 
 # playground cache
 /play-cache
@@ -20,3 +24,7 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+
+# gradle stuff
+.gradle
+gradle-local.properties

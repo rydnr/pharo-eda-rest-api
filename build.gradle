@@ -2,7 +2,7 @@ version = "latest-SNAPSHOT"
 apply plugin: PharoPlugin
 
 pharo {
-    imageVersion = '60'
+    imageVersion = '90'
 }
 
 def imageName = "${project.name}-${project.version}"
